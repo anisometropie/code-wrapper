@@ -1,0 +1,10 @@
+{
+  "id": "rust-code-wrapper",
+  "name": "Rust Code Wrapper",
+  "version": "0.1.0",
+  "description": "A simple plugin to wrap selected text with a Rust code block.",
+  "author": "Your Name",
+  "main": "main.js",
+  "minimumAppVersion": "0.9.19",
+  "tags": ["code", "rust"]
+}
